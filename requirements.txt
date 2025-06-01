@@ -7,3 +7,6 @@ google-generativeai==0.5.2
 python-dotenv==1.0.1
 branca==0.7.1
 
+sentence-transformers==2.2.2
+torch==2.2.2
+tensorflow==2.11.0
